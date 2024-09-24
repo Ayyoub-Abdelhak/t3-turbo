@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "create-t3-turbo",
+    "slug": "create-t3-turbo",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios", "android"],
+    "extra": {
+      "eas": {
+        "projectId": "461f4e9e-2639-48f4-b8c9-15169a7db584"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.create-t3-turbo"
+    },
+    "android": {
+      "package": "com.anonymous.createt3turbo"
+    }
+  }
+}

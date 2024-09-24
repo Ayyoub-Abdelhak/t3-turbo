@@ -24,6 +24,9 @@ apps/expo/.gitignore
 apps/expo/ios
 apps/expo/android
 
+android/
+ios/
+
 # production
 build
 
